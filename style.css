@@ -1,0 +1,13 @@
+table{
+    font-family : Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width   : 1px;
+    border-style   : solid;
+    border-color   : #4826a670;
+}
+
+th {
+    font-weight: 800;
+    background-color: #4826a670;
+    color           : hsla(0, 0%, 100%, 0.918);
+}
